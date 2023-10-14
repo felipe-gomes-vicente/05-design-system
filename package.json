@@ -3,7 +3,12 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
   "dependencies": {
-    "npm": "^7.0.7"
+    "npm": "^7.0.7",
+    "turbo": "^1.5.5"
   }
 }
