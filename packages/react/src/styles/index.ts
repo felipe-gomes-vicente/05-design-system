@@ -1,8 +1,8 @@
 import {
   colors,
+  fonts,
   fontSizes,
   fontWeights,
-  fonts,
   lineHeights,
   radii,
   space,
@@ -22,8 +22,9 @@ export const {
   themeMap: {
     ...defaultThemeMap,
     height: 'space',
-    with: 'space',
+    width: 'space',
   },
+
   theme: {
     colors,
     fontSizes,
