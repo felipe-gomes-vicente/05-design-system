@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/felipe-gomes-vicente.png',
     alt: 'Felipe Dev',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
