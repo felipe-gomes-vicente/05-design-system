@@ -1,0 +1,2 @@
+import{A as t}from"./index.f0feeaa3.js";import"./index.43445a1f.js";import"./iframe.41a5bc99.js";import"./index.448f85fa.js";import"./jsx-runtime.2cd11c3e.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/felipe-gomes-vicente.png",alt:"Felipe Dev"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.1ca1a9e7.js.map
